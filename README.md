@@ -6,17 +6,19 @@
 
 ### TECHNOLOGY STACKS  
 
-**CODING:** HTML5, CSS/SASS/SCSS, JQUERY, JAVASCRIPT, PHP, C#/MVC, GULP, WEBPACK  
+**CODING:**  
+HTML5, css/sass/scss, jQuery, JavaScript, PHP, C#/MVC, gulp, webpack  
 
 **THIRD-PARTY**  
-GITHUB, BITBUCKET, JIRA, GIT, TFS, FOUNDATION, GOOGLE ANALYTICS, SALESFORCE, CRAZYEGG, SILVERPOP, AKAMAI, AMAZON EC2, VISUAL STUDIO, VS CODE
+Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom
 
 **SERVER**  
-LINUX, CRONTAB, MYSQLPHP, CPANEL
+Linux, Crontab, MySQL, phpMyAdmin, cPanel
 
 **CMS**  
-_WORDPRESS_: INSTALLATION, MIGRATION & MAINTENANCE, SECURITY, CUSTOM THEME DEVELOPMENT, CUSTOM PLUGIN DEVELOPMENT, SEO, BUDDYPRESS, BBPRESS, YOAST  
-_UMBRACO (ASP.NET)_: INSTALLATION, MIGRATION & MAINTENANCE, CUSTOMIZATION, CUSTOM MODULES, SEO  
+_WORDPRESS_: installation, migration & maintenance, security, custom theme development, custom plugin development, SEO, BuddyPress, bbPress, Yoast  
+
+_UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custom modules, SEO  
 
 ***
 
