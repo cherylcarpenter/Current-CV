@@ -49,7 +49,7 @@ Designed original WordPress themes and plugins for local, service-oriented busin
 Designed, coded and launched retail-to-consumer emails and ecommerce landing pages. Developed HTML emails and uploaded to Silverpop Engage. Tested emails using Litmus. Updated webpages and performed site maintenance using html, css, and OCP site manager by Fry Micros. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.  
 
 - Led initiative to bring the html coding of our email files in-house.
-- Scripted email ink replacements from excel to html code using python
+- Scripted email link replacements from excel to html code using python
 - Cross-browser/client compatibility testing using Litmus  
 
 **DIGITAL MEDIA DESIGNER** @ INSPIRUS  
