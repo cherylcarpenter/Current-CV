@@ -1,6 +1,6 @@
 # CHERYL CARPENTER  
 ## WEB DEVELOPER  
->I am a versatile, front-end web developer with a strong background in graphic design. I develop responsive, rich, customer-facing websites using latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I can work from the conceptual stage to the digital product launch.  
+>I am a versatile, frontend web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I can work from the conceptual stage to the digital product launch.  
 
 ***  
 
@@ -23,10 +23,19 @@ _UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custo
 ***
 
 ### EXPERIENCE  
+**SENIOR FRONTEND DEVELOPER** @ LANVERA
+10/2019-CURRENT  |  Coppell, Texas  
+(06/2020 - current)
+Frontend developer - MVC/C#
+Using the design library I created for in-house, I am now helping implement the frontend into MVC applications. I am working on every piece of the application up-to and except the database. I use my design background to translate the design-vision and business requirements into usable code.
 
-**WEB DEVELOPER @ FIRST-AMERICAN PAYMENT SYSTEMS**  
-2016\-CURRENT  |  Fort Worth, Texas  
-Develop all front-end and administrative functionalities for content managed, marketing websites. Adhere to all best practices for code, mobile devices and SEO. Integration of all lead-generating forms with SalesForce API. Provide ongoing support.
+(10/2019-06/20120)
+Frontend developer - static HTML prototypes
+I created a pixel-perfect design library from UI mockups, delivering fully functional javascript, HTML, and SCSS for several SASS applications. I created a Node.js stack to implement static data and a feature-rich frontend.  
+
+**WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
+2016\-10/2019  |  Fort Worth, Texas  
+Developed all front-end and administrative functionalities for content managed, marketing websites. Adhered to all best practices for code, mobile devices and SEO. Integrated lead-generating forms with SalesForce API. Provided ongoing support.
 
 **WORDPRESS DEVELOPER** @ AT&T  
 2015-2016  |  Dallas, Texas  
