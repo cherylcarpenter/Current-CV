@@ -12,6 +12,9 @@ HTML5, css/sass/scss, jQuery, JavaScript, PHP, C#/MVC, gulp, webpack
 **THIRD-PARTY**  
 Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom
 
+**FRAMEWORKKS**  
+Bootstrap, Foundataion, Bulma
+
 **SERVER**  
 Linux, Crontab, MySQL, phpMyAdmin, cPanel
 
