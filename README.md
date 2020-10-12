@@ -37,7 +37,7 @@ Using the design library I created for in-house, I am now helping implement the 
 
 (10/2019-06/2020)  
 Frontend developer - static HTML prototypes  
-I created a pixel-perfect design library from UI mockups, delivering fully functional javascript, HTML, and SCSS for several SASS applications. I created a Node.js stack to implement static data and a feature-rich frontend.
+I created a pixel-perfect design library from UI mockups, delivering fully functional javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend.
 
 **WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
 2016\-10/2019 | Fort Worth, Texas  
