@@ -30,7 +30,7 @@ _UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custo
 ### EXPERIENCE
 
 **SENIOR FRONTEND DEVELOPER** @ LANVERA  
-06/2020-CURRENT | Coppell, Texas  
+10/2019-CURRENT | Coppell, Texas  
 (06/2020 - current)  
 Frontend developer - MVC/C#  
 Using the design library I created for in-house, I am now helping implement the frontend into MVC applications. I am working on every piece of the application up-to and except the database. I use my design background to translate the design-vision and business requirements into usable code.
