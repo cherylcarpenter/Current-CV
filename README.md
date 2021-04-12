@@ -2,19 +2,19 @@
 
 ## WEB DEVELOPER
 
-> I am a versatile, frontend web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I can work from the conceptual stage to the digital product launch.
+> I am a versatile, frontend web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I develop scalable component libraries. I can work from the conceptual stage to the digital product launch.
 
 ---
 
 ### TECHNOLOGY STACKS
 
 **CODING:**  
-HTML5, css/sass/scss, jQuery, JavaScript, PHP, C#/MVC, gulp, webpack
+HTML5, css/sass/scss, jQuery, JavaScript, gulp, webpack, Node, Vue, React
 
 **THIRD-PARTY**  
-Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom
+Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom, Azure, Storybook
 
-**FRAMEWORKS**  
+**FRONTEND FRAMEWORKS**  
 Bootstrap, Foundataion, Bulma
 
 **SERVER**  
@@ -31,13 +31,8 @@ _UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custo
 
 **SENIOR FRONTEND DEVELOPER** @ LANVERA  
 10/2019-CURRENT | Coppell, Texas  
-(06/2020 - current)  
-Frontend developer - MVC/C#  
-Using the design library I created for in-house, I am now helping implement the frontend into MVC applications. I am working on every piece of the application up-to and except the database. I use my design background to translate the design-vision and business requirements into usable code.
-
-(10/2019-06/2020)  
-Frontend developer - static HTML prototypes  
-I created a pixel-perfect design library from UI mockups, delivering fully functional javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend.
+Frontend developer - Node/Vue, static HTML prototypes.    
+I created a pixel-perfect design library from UI mockups, delivering fully functional Vue, javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend. I helped architect a pipeline for UX to Storybook for a scalable component libraray. 
 
 **WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
 2016\-10/2019 | Fort Worth, Texas  
@@ -84,4 +79,4 @@ github: https://github.com/cherylcarpenter
 
 ### HOBBIES
 
-I'm a huge booknerd, of mostly stuff and nonsense, follow me on [Goodreads!](https://www.goodreads.com/user/show/10141259-cheryl-carpenter)
+I'm a huge booknerd, of mostly stuff and nonsense, follow me on *[Goodreads!](https://www.goodreads.com/user/show/10141259-cheryl-carpenter)*
