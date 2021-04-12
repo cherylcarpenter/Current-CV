@@ -2,7 +2,7 @@
 
 ## WEB DEVELOPER
 
-> I am a versatile, frontend web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I develop scalable component libraries. I can work from the conceptual stage to the digital product launch.
+> I am a versatile, front-end web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using the latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I develop scalable component libraries. I can work from the conceptual stage to the digital product launch.
 
 ---
 
@@ -15,7 +15,7 @@ HTML5, css/sass/scss, jQuery, JavaScript, gulp, webpack, Node, Vue, React
 Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom, Azure, Storybook
 
 **FRONTEND FRAMEWORKS**  
-Bootstrap, Foundataion, Bulma
+Bootstrap, Foundation, Bulma
 
 **SERVER**  
 Linux, Crontab, MySQL, phpMyAdmin, cPanel
@@ -32,11 +32,11 @@ _UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custo
 **SENIOR FRONTEND DEVELOPER** @ LANVERA  
 10/2019-CURRENT | Coppell, Texas  
 Frontend developer - Node/Vue, static HTML prototypes.    
-I created a pixel-perfect design library from UI mockups, delivering fully functional Vue, javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend. I helped architect a pipeline for UX to Storybook for a scalable component libraray. 
+I created a pixel-perfect design library from UI mockups, delivering fully functional Vue, javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend. I helped architect a pipeline for UX to Storybook for a scalable component library. 
 
 **WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
 2016\-10/2019 | Fort Worth, Texas  
-Developed all front-end and administrative functionalities for content managed, marketing websites. Adhered to all best practices for code, mobile devices and SEO. Integrated lead-generating forms with SalesForce API. Provided ongoing support.
+Developed all front-end and administrative functionalities for content-managed, marketing websites. Adhered to all best practices for code, mobile devices and SEO. Integrated lead-generating forms with SalesForce API. Provided ongoing support.
 
 **WORDPRESS DEVELOPER** @ AT&T  
 2015-2016 | Dallas, Texas  
@@ -44,27 +44,27 @@ Supported WordPress community with development and business process oversight. D
 
 - Selected and led two co-developers
 - Wrote custom WordPress plugins around marketing initiatives
-- Converted large set of LESS stylesheets to SASS for forward compatibility with Bootstrap
+- Converted a large set of LESS stylesheets to SASS for forward compatibility with Bootstrap
 
 **WEB DESIGNER / DEVELOPER** @ FIRST WEB MARKETING  
 2013-2015 | Fort Worth, Texas  
 Designed original WordPress themes and plugins for local, service-oriented businesses.
 
-- Introduced the team to css preprocessors
-- Wrote processes and best practices for css stylesheets
+- Introduced the team to CSS preprocessors
+- Wrote processes and best practices for CSS stylesheets
 - Used Schema code for local SEO results
 
 **WEB DESIGNER / DEVELOPER** @ SHEPLERS INC, ECOMMERCE  
 2012-2013 | Frisco, Texas  
-Designed, coded and launched retail-to-consumer emails and ecommerce landing pages. Developed HTML emails and uploaded to Silverpop Engage. Tested emails using Litmus. Updated webpages and performed site maintenance using html, css, and OCP site manager by Fry Micros. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.
+Designed, coded and launched retail-to-consumer emails and eCommerce landing pages. Developed HTML emails and uploaded them to Silverpop Engage. Tested emails using Litmus. Updated web pages and performed site maintenance using HTML, CSS, and OCP site manager by Fry Micros. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.
 
-- Led initiative to bring the html coding of our email files in-house.
-- Scripted email link replacements from excel to html code using python
+- Led initiative to bring the HTML coding of our email files in-house.
+- Scripted email link replacements from excel to HTML code using python
 - Cross-browser/client compatibility testing using Litmus
 
 **DIGITAL MEDIA DESIGNER** @ INSPIRUS  
 2009-2012 | Fort Worth, Texas  
-Created interactive training products for proprietary software customers (SaaS). Scripted Adobe Flash (ActionScript) to create personalized customer login portals for digital product (SaaS). Worked with team of creatives to create formal Request for Proposals. Learned new products, techniques, applications, and systems as needed.
+Created interactive training products for proprietary software customers (SaaS). Scripted Adobe Flash (ActionScript) to create personalized customer login portals for digital products (SaaS). Worked with a team of creatives to create formal Requests for Proposals. Learned new products, techniques, applications, and systems as needed.
 
 ### EDUCATION
 
@@ -79,4 +79,4 @@ github: https://github.com/cherylcarpenter
 
 ### HOBBIES
 
-I'm a huge booknerd, of mostly stuff and nonsense, follow me on *[Goodreads!](https://www.goodreads.com/user/show/10141259-cheryl-carpenter)*
+I'm a huge book nerd, of mostly stuff and nonsense, follow me on *[Goodreads!](https://www.goodreads.com/user/show/10141259-cheryl-carpenter)*
