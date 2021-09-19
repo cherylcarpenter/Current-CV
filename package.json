@@ -1,0 +1,19 @@
+{
+  "name": "current-cv",
+  "version": "1.0.0",
+  "description": "--- title: Cheryl Carpenter linkcolor: blue pdf-engine: xelatex header-includes:  - \\usepackage[margin=.5in]{geometry} classoption: \"12pt\" ---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherylcarpenter/Current-CV.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cherylcarpenter/Current-CV/issues"
+  },
+  "homepage": "https://github.com/cherylcarpenter/Current-CV#readme"
+}
