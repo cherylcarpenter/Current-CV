@@ -3,78 +3,85 @@ title: Cheryl Carpenter
 linkcolor: blue
 pdf-engine: xelatex
 header-includes:
- - \usepackage[margin=.5in]{geometry}
+  - \usepackage[margin=.5in]{geometry}
 classoption: "12pt"
 ---
 
-
 # CHERYL CARPENTER
 
-## WEB DEVELOPER
+## FRONTEND DEVELOPER
 
-> I am a versatile, front-end web developer with a strong background in graphic design. I develop responsive, feature-rich, customer-facing websites using the latest web technologies. I design easy-to-use and maintain content-managed experiences for enterprise marketing departments. I develop scalable component libraries. I can work from the conceptual stage to the digital product launch.
+> I am a versatile, frontend developer and solution-provider with a strong background in graphic design.
 
 ---
 
 ### TECHNOLOGY STACKS
 
-**CODING:**  
-HTML5, css/sass/scss, jQuery, JavaScript, gulp, webpack, Node, Vue, React
+**CODING**  
+C#, css/sass/scss, gulp, HTML5, JavaScript, jQuery, NodeJS, Razor, React/NextJS, Vue/NuxtJS, Webpack
 
-**THIRD-PARTY**  
-Github, Bitbucket, Jira, git, TFS, Google Analytics, SalesForce API, Crazy Egg, Silverpop, Akamai, AWS, Visual Studio, VS Code, Atom, Azure, Storybook
+**APPS & SERVICES**  
+Akamai, Atom, AWS, Azure, AzureDevOps, Bitbucket, CircleCI, CrazyEgg, git, Github, Gitlab, GoogleAnalytics, Jira, SalesForceAPI, Silverpop, Storybook, TFS, VisualStudio, VSCode
 
-**FRONTEND FRAMEWORKS**  
-Bootstrap, Foundation, Bulma
-
-**SERVER**  
-Linux, Crontab, MySQL, phpMyAdmin, cPanel
+**FRONTEND CSS FRAMEWORKS**  
+Bootstrap, Foundation, Bulma, Tailwind, Emotion, custom
 
 **CMS**  
-_WORDPRESS_: installation, migration & maintenance, security, custom theme development, custom plugin development, SEO, BuddyPress, bbPress, Yoast
-
-_UMBRACO (ASP.NET)_: installation, migration & maintenance, customization, custom modules, SEO
+WordPress (php), Umbraco (.NET), SiteCore (.NET)
 
 ---
 
 ### EXPERIENCE
 
+**LEAD FRONTEND DEVELOPER** @ Vail Resorts  
+12/2021-CURRENT | Broomfield, Colorado  
+Maintain and enhance existing marketing and eCommerce websites. Collaborate with stakeholders for Adobe analytics tracking and A/B testing. Transitioning the SiteCore frontend to ReactJS components.
+
+**SENIOR FRONTEND DEVELOPER** @ Various Contracts  
+06/2021-12/2021 | Remote
+
+- _Charter Communications_ - Contributed to converting the enterprise Design System Library documentation site from Vue 2 to Vue 3 within VuePress static site generator.
+- _DocuSign_ - Developed React components in an enterprise Design System Library.
+- _Snap-Raise_ - Designed & Launched the proof-of-concept for a reusable component library using Storybook and Stencil.js for Snap-Raise's SaaS software.
+
 **SENIOR FRONTEND DEVELOPER** @ LANVERA  
-10/2019-CURRENT | Coppell, Texas  
-Frontend developer - Node/Vue, static HTML prototypes.    
-I created a pixel-perfect design library from UI mockups, delivering fully functional Vue, javascript, HTML, and SCSS for several SaaS applications. I created a Node.js stack to implement static data and a feature-rich frontend. I helped architect a pipeline for UX to Storybook for a scalable component library. 
+10/2019-06/2021 | Coppell, Texas
+
+- Created a custom static site generator to re-skin existing SaaS financial services software.
+- Created a custom Storybook & Vue library solution that connected to the UX Invision API, allowing us to quickly distribute our design system throughout the greater software development lifecycle.
 
 **WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
-2016\-10/2019 | Fort Worth, Texas  
-Developed all front-end and administrative functionalities for content-managed, marketing websites. Adhered to all best practices for code, mobile devices and SEO. Integrated lead-generating forms with SalesForce API. Provided ongoing support.
+10/2016\-10/2019 | Fort Worth, Texas  
+Developed all frontend and administrative functionalities for marketing CMS websites using the open-source C# product Umbraco.
+
+- Assessed and improved business requirements based on UI design specifications.
+- Updated and maintained .NET MVC product Umbraco for content management.
+- Integrated with SalesForce API for marketing lead generation.
 
 **WORDPRESS DEVELOPER** @ AT&T  
 2015-2016 | Dallas, Texas  
-Supported WordPress community with development and business process oversight. Designed and launched original marketing initiatives including contests and lead-generating efforts. Oversaw the migration of the project from an outside agency to internal servers.
+Supported the AT&T small business user community forum with development and business process oversight. Developed and launched original marketing initiatives including contests and lead-generating efforts.
 
-- Selected and led two co-developers
-- Wrote custom WordPress plugins around marketing initiatives
-- Converted a large set of LESS stylesheets to SASS for forward compatibility with Bootstrap
+- Oversaw the migration of the project from an outside agency to internal servers.
+- Led a team of two or more developers.
+- Wrote custom WordPress plugins for marketing campaigns.
+- Converted a large set of LESS stylesheets to SASS for forward compatibility with Bootstrap.
 
 **WEB DESIGNER / DEVELOPER** @ FIRST WEB MARKETING  
 2013-2015 | Fort Worth, Texas  
 Designed original WordPress themes and plugins for local, service-oriented businesses.
 
-- Introduced the team to CSS preprocessors
-- Wrote processes and best practices for CSS stylesheets
-- Used Schema code for local SEO results
+- Introduced the team to CSS preprocessors.
+- Wrote processes and best practices for CSS stylesheets.
+- Used Schema code for local SEO results.
 
 **WEB DESIGNER / DEVELOPER** @ SHEPLERS INC, ECOMMERCE  
 2012-2013 | Frisco, Texas  
-Designed, coded and launched retail-to-consumer emails and eCommerce landing pages. Developed HTML emails and uploaded them to Silverpop Engage. Tested emails using Litmus. Updated web pages and performed site maintenance using HTML, CSS, and OCP site manager by Fry Micros. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.
+Designed and coded retail-to-consumer emails and eCommerce landing pages. Developed HTML emails and uploaded them to Silverpop Engage. Tested emails using Litmus. Updated html landing pages and performed site maintenance using HTML, CSS, and an in-house CMS. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.
 
 - Led initiative to bring the HTML coding of our email files in-house.
-- Scripted email link replacements from excel to HTML code using python
-- Cross-browser/client compatibility testing using Litmus
-
-**DIGITAL MEDIA DESIGNER** @ INSPIRUS  
-2009-2012 | Fort Worth, Texas  
-Created interactive training products for proprietary software customers (SaaS). Scripted Adobe Flash (ActionScript) to create personalized customer login portals for digital products (SaaS). Worked with a team of creatives to create formal Requests for Proposals. Learned new products, techniques, applications, and systems as needed.
+- Scripted email link replacements from excel to HTML code using python, saving the marketing team 2 or more production days per week.
+- Initiated cross-browser/client compatibility testing using Litmus.
 
 ### EDUCATION
 
@@ -84,9 +91,5 @@ Created interactive training products for proprietary software customers (SaaS).
 ### CHANNELS
 
 twitter: @thedesignsprite  
-email: cherylcarpenter2015 'at' gmail 'dot' com  
+email: cherylcarpenter2015@gmail.com  
 github: https://github.com/cherylcarpenter
-
-### HOBBIES
-
-I'm a huge book nerd, of mostly stuff and nonsense, follow me on *[Goodreads!](https://www.goodreads.com/user/show/10141259-cheryl-carpenter)*
