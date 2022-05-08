@@ -11,7 +11,7 @@ classoption: "12pt"
 
 ## FRONTEND DEVELOPER
 
-> I am a versatile, frontend developer and solution-provider with a strong background in graphic design.
+> Versatile, frontend developer and solution-provider with a strong background in graphic design.
 
 ---
 
@@ -63,7 +63,7 @@ Developed all frontend and administrative functionalities for marketing CMS webs
 Supported the AT&T small business user community forum with development and business process oversight. Developed and launched original marketing initiatives including contests and lead-generating efforts.
 
 - Oversaw the migration of the project from an outside agency to internal servers.
-- Led a team of two or more developers.
+- Led a team developers.
 - Wrote custom WordPress plugins for marketing campaigns.
 - Converted a large set of LESS stylesheets to SASS for forward compatibility with Bootstrap.
 
