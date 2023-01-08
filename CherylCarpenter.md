@@ -18,7 +18,7 @@ classoption: "12pt"
 ### TECHNOLOGY STACKS
 
 **CODING**  
-C#, css/sass/scss, gulp, HTML5, JavaScript, jQuery, NodeJS, Razor, React/NextJS, Vue/NuxtJS, Webpack
+C#, css/sass/scss, gulp, HTML5, JavaScript, jQuery, NodeJS, Razor, React/NextJS, Typescript, Vue/NuxtJS, Webpack
 
 **APPS & SERVICES**  
 Akamai, Atom, AWS, Azure, AzureDevOps, Bitbucket, CircleCI, CrazyEgg, git, Github, Gitlab, GoogleAnalytics, Jira, SalesForceAPI, Silverpop, Storybook, TFS, VisualStudio, VSCode
@@ -33,9 +33,16 @@ WordPress (php), Umbraco (.NET), SiteCore (.NET)
 
 ### EXPERIENCE
 
+**LEAD FRONTEND ENGINEER** @ GuideIt  
+6/2022-current | remote  
+Work within the team of leads to gather business requirments, communicate goals to larger develper team, and establish frontend coding standards.
+
+- Designed, launched and scaled a React component library for building client applications.
+- Designed and delivered client accounting software package. I created the UX, incorporated my custom React comoponent library, and handled everything project-related from the api forward.
+
 **LEAD FRONTEND DEVELOPER** @ Vail Resorts  
-12/2021-CURRENT | Broomfield, Colorado  
-Maintain and enhance existing marketing and eCommerce websites. Collaborate with stakeholders for Adobe analytics tracking and A/B testing. Transitioning the SiteCore frontend to ReactJS components.
+12/2021-6/2022 | Broomfield, Colorado  
+Maintained and enhanced existing marketing and eCommerce websites. Collaborated with stakeholders for Adobe analytics tracking and A/B testing. Transitioning the SiteCore frontend to ReactJS components.
 
 **SENIOR FRONTEND DEVELOPER** @ Various Contracts  
 06/2021-12/2021 | Remote
@@ -90,6 +97,5 @@ Designed and coded retail-to-consumer emails and eCommerce landing pages. Develo
 
 ### CHANNELS
 
-twitter: @thedesignsprite  
 email: cherylcarpenter2015@gmail.com  
 github: https://github.com/cherylcarpenter
