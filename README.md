@@ -4,7 +4,7 @@ The inital pipeline was using a Linux cli called Latex pdf.
 
 Latex began having installation issus and was losing its dependencies. Overall too fussy to make a simple pdf.
 
-I am switch to an npm tool
+I switched to an npm tool
 https://www.npmjs.com/package/md-to-pdf
 
 This is installed globally and thus not shown here in the package.json.
