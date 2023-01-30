@@ -38,7 +38,7 @@ WordPress (php), Umbraco (.NET), SiteCore (.NET)
 Work within the team of leads to gather business requirments, communicate goals to larger develper team, and establish frontend coding standards.
 
 - Designed, launched and scaled a React component library for building client applications.
-- Designed and delivered client accounting software package. I created the UX, incorporated my custom React comoponent library, and handled everything project-related from the api forward.
+- Designed and delivered client accounting software package. I created the UX, incorporated my custom React component library, and handled everything project-related from the api forward.
 
 **LEAD FRONTEND DEVELOPER** @ Vail Resorts  
 12/2021-6/2022 | Broomfield, Colorado  
