@@ -35,7 +35,7 @@ WordPress (php), Umbraco (.NET), SiteCore (.NET)
 
 **LEAD FRONTEND ENGINEER** @ GuideIt  
 6/2022-current | remote  
-Work within the team of leads to gather business requirments, communicate goals to larger develper team, and establish frontend coding standards.
+Work within the team of leads to gather business requirements, communicate goals to larger developer team, and establish frontend coding standards.
 
 - Designed, launched and scaled a React component library for building client applications.
 - Designed and delivered client accounting software package. I created the UX, incorporated my custom React component library, and handled everything project-related from the api forward.
