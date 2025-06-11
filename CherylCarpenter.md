@@ -18,24 +18,32 @@ classoption: "12pt"
 ### TECHNOLOGY STACKS
 
 **CODING**  
-C#, css/sass/scss, gulp, HTML5, JavaScript, jQuery, NodeJS, Razor, React/NextJS, Typescript, Vue/NuxtJS, Webpack
-
-**APPS & SERVICES**  
-Akamai, Atom, AWS, Azure, AzureDevOps, Bitbucket, CircleCI, CrazyEgg, git, Github, Gitlab, GoogleAnalytics, Jira, SalesForceAPI, Silverpop, Storybook, TFS, VisualStudio, VSCode
+React/NextJS, Typescript, css/sass/scss, HTML5, JavaScript, jQuery, NodeJS, Razor, Svelte, Webpack, Cypress
 
 **FRONTEND CSS FRAMEWORKS**  
-Bootstrap, Foundation, Bulma, Tailwind, Emotion, custom
+Bootstrap, Foundation, Bulma, Tailwind, Emotion, custom SCSS
 
 **CMS**  
-WordPress (php), Umbraco (.NET), SiteCore (.NET)
+WordPress (php), Umbraco (.NET), SiteCore (.NET), Headless Opensource CMS's
 
 ---
 
 ### EXPERIENCE
+**PRINCIPAL FRONTEND DEVELOPER** @ TireRack 
+5/2023-current | remote  
+
+- Collaborated with design team and product owners to create a scalable React component library and design system, themed across three e-commerce channels.
+- Created pipeline to release component library for application development.
+- Architected and wrote NextJs applications for new, modern e-commerce sites.
+- Collaborated with backend teams to integrate RESTful APIs and optimize data flows. Outlined the contract for collaboration.
+- Gathered and wrote requirements for frontend development tasks.
+- Mentored and onboarded junior developers, growing a team from scratch.
+- Supervised up to 3 developers, reviewing code and maintaining standards.
+- Wrote unit and e2e testing
 
 **LEAD FRONTEND ENGINEER** @ GuideIt  
-6/2022-current | remote  
-Work within the team of leads to gather business requirements, communicate goals to larger developer team, and establish frontend coding standards.
+6/2022-4/2023 | remote  
+Work within the team of lead developers to gather business requirements, communicate goals to larger developer team, and establish frontend coding standards.
 
 - Designed, launched and scaled a React component library for building client applications.
 - Designed and delivered client accounting software package. I created the UX, incorporated my custom React component library, and handled everything project-related from the api forward.
@@ -55,7 +63,7 @@ Maintained and enhanced existing marketing and eCommerce websites. Collaborated 
 10/2019-06/2021 | Coppell, Texas
 
 - Created a custom static site generator to re-skin existing SaaS financial services software.
-- Created a custom Storybook & Vue library solution that connected to the UX Invision API, allowing us to quickly distribute our design system throughout the greater software development lifecycle.
+- Created a custom Storybook & VueJs library solution that connected to the UX Invision API, allowing us to quickly distribute our design system throughout the greater software development lifecycle.
 
 **WEB DEVELOPER** @ FIRST-AMERICAN PAYMENT SYSTEMS  
 10/2016\-10/2019 | Fort Worth, Texas  
@@ -81,14 +89,6 @@ Designed original WordPress themes and plugins for local, service-oriented busin
 - Introduced the team to CSS preprocessors.
 - Wrote processes and best practices for CSS stylesheets.
 - Used Schema code for local SEO results.
-
-**WEB DESIGNER / DEVELOPER** @ SHEPLERS INC, ECOMMERCE  
-2012-2013 | Frisco, Texas  
-Designed and coded retail-to-consumer emails and eCommerce landing pages. Developed HTML emails and uploaded them to Silverpop Engage. Tested emails using Litmus. Updated html landing pages and performed site maintenance using HTML, CSS, and an in-house CMS. Created brand-consistent marketing campaigns for website and social media use using Adobe Creative Suite.
-
-- Led initiative to bring the HTML coding of our email files in-house.
-- Scripted email link replacements from excel to HTML code using python, saving the marketing team 2 or more production days per week.
-- Initiated cross-browser/client compatibility testing using Litmus.
 
 ### EDUCATION
 
