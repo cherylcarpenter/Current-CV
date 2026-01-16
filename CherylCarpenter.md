@@ -18,7 +18,7 @@ classoption: "12pt"
 ### TECHNOLOGY STACKS
 
 **CODING**  
-React/NextJS, Typescript, css/sass/scss, HTML5, JavaScript, jQuery, NodeJS, Razor, Svelte, Webpack, Cypress
+React/NextJS, Typescript, css/sass/scss, HTML5, JavaScript, jQuery, NodeJS, Razor, Webpack, Jest, Cypress
 
 **FRONTEND CSS FRAMEWORKS**  
 Bootstrap, Foundation, Bulma, Tailwind, Emotion, custom SCSS
