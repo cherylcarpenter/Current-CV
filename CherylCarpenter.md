@@ -5,8 +5,8 @@ pdf_options:
   margin:
     top: 0.5in
     bottom: 0.5in
-    left: 0.5in
-    right: 0.5in
+    left: 0.4in
+    right: 0.4in
   printBackground: true
 stylesheet:
   - ./resume-styles.css
@@ -20,26 +20,13 @@ stylesheet:
 
 ### TECHNOLOGY STACKS
 
-**Languages & Core Technologies**  
-JavaScript, TypeScript, HTML5, CSS/SASS/SCSS, PHP, C#/Razor
-
-**Frameworks & Libraries**  
-React, Next.js, Redux, React Query, Node.js, Vue, Stencil
-
-**Styling & Design Systems**  
-Tailwind CSS, Bootstrap, Foundation, Bulma, Emotion, Custom SCSS, Material UI
-
-**Build Tools & Bundlers**  
-Webpack, Vite, npm/yarn, Rollup
-
-**Testing**  
-Jest, Cypress, React Testing Library, Playwright
-
-**CMS Platforms**  
-WordPress, Umbraco (.NET), Sitecore (.NET), Headless CMS solutions
-
-**Development Tools**  
-Git, Storybook, VuePress, Claude Code, CI/CD pipelines
+**Languages & Core Technologies** JavaScript, TypeScript, HTML5, CSS/SASS/SCSS, PHP, C#/Razor  
+**Frameworks & Libraries** React, Next.js, Redux, React Query, Node.js, Vue, Stencil  
+**Styling & Design Systems** Tailwind CSS, Bootstrap, Foundation, Bulma, Emotion, Custom SCSS, Material UI  
+**Build Tools & Bundlers** Webpack, Vite, npm/yarn, Rollup  
+**Testing** Jest, Cypress, React Testing Library, Playwright  
+**CMS Platforms** WordPress, Umbraco (.NET), Sitecore (.NET), Headless CMS solutions  
+**Development Tools** Git, Storybook, VuePress, Claude Code, CI/CD pipelines  
 
 ### EXPERIENCE
 **PRINCIPAL FRONTEND ENGINEER** @ TireRack 
@@ -61,6 +48,8 @@ Worked within the team of lead developers to gather business requirements, commu
 
 - Designed, launched and scaled a React component library for building client applications.
 - Designed and delivered client accounting software package, owning UX design, component library integration, and all frontend implementation.
+
+<div style="page-break-before: always"></div>
 
 **LEAD FRONTEND ENGINEER** @ Vail Resorts  
 12/2021-6/2022 | Broomfield, Colorado  
