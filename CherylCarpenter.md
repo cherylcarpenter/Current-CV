@@ -21,17 +21,16 @@ stylesheet:
 ### TECHNOLOGY STACKS
 
 **Languages & Core Technologies** JavaScript, TypeScript, Python, HTML5, CSS/SASS/SCSS, PHP, C#/Razor  
-**Frameworks & Libraries** React, Next.js, Redux, React Query, Node.js, Vue, Stencil  
+**Frameworks & Libraries** React, Next.js, Redux, React Query (TanStack Query), Node.js, Vue, Stencil  
 **Styling & Design Systems** Tailwind CSS, Bootstrap, Foundation, Bulma, Emotion, Custom SCSS, Material UI  
 **Build Tools & Bundlers** Webpack, Vite, npm/yarn, Rollup  
-**Testing** Jest, Cypress, React Testing Library, Playwright  
+**Testing** Jest, Cypress, React Testing Library, Playwright, Vitest  
 **CMS Platforms** WordPress, Umbraco (.NET), Sitecore (.NET), Headless CMS solutions  
 **Development Tools** Git, Storybook, Claude Code, CI/CD pipelines (Jenkins, Vercel, GitHub Actions), Jira, Confluence  
 
 ### EXPERIENCE
-**PRINCIPAL FRONTEND ARCHITECT** @ TireRack 
+**PRINCIPAL FRONTEND ARCHITECT** @ TireRack   
 05/2023–Present | Remote  
-
 - Designed a scalable, multi-tenant React component library and design system spanning three e-commerce channels, establishing theming architecture and contribution standards adopted across product teams.  
 - Embedded architectural thinking into the design process early, ensuring UX decisions accounted for technical feasibility, performance budgets, and reuse potential.  
 - Architected a Next.js platform strategy for modernizing e-commerce properties, defining patterns for Server Components, streaming, and progressive rendering that set the standard for all future builds.  
@@ -41,11 +40,11 @@ stylesheet:
 - Built and scaled a frontend engineering team from the ground up, defining hiring bar, onboarding program, and engineering culture.  
 - Instituted code quality and testing governance, setting standards that achieved 95% coverage and end-to-end validation across all API surfaces.  
 - Defined AI-assisted development standards for the team, creating guidelines that integrated tools like Claude Code into delivery workflows without sacrificing code quality or maintainability.   
+- PCI-compliant payment processing environment.  
 
 **LEAD FRONTEND ENGINEER** @ GuideIt  
 06/2022–04/2023 | Remote  
-Worked within the team of lead developers to gather business requirements, communicate goals to larger developer team, and establish frontend coding standards.
-
+Worked within the team of lead developers to gather business requirements, communicate goals to large developer team, and establish frontend coding standards.
 - Designed, launched and scaled a React component library for building client applications.
 - Designed and delivered client accounting software package, owning UX design, component library integration, and all frontend implementation.
 
@@ -55,14 +54,12 @@ Maintained and enhanced marketing and eCommerce websites. Collaborated with stak
 
 **SENIOR FRONTEND DEVELOPER** @ Various Contracts  
 06/2021–12/2021 | Remote
-
 - _Charter Communications_ - Contributed to converting the enterprise Design System Library documentation site from Vue 2 to Vue 3 within VuePress static site generator.
 - _DocuSign_ - Developed React components in an enterprise Design System Library.
 - _Snap-Raise_ - Designed & launched the proof-of-concept for a reusable component library using Storybook and Stencil.js for Snap-Raise's SaaS software.
 
 **SENIOR FRONTEND DEVELOPER** @ LANVERA  
 10/2019–06/2021 | Coppell, Texas
-
 - Created a custom static site generator to re-skin SaaS financial services software.
 - Created a custom Storybook & Vue.js library solution that connected to the UX InVision API, allowing us to streamline design system distribution throughout the greater software development lifecycle.
 
