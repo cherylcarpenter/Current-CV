@@ -16,7 +16,7 @@ stylesheet:
 
 ## PRINCIPAL FRONTEND ARCHITECT
 
-> Frontend engineering leader with 10+ years of experience architecting scalable design systems and component libraries. Proven track record of building and mentoring development teams while delivering modern React/Next.js applications.
+> Frontend engineering leader with 12+ years of experience architecting scalable design systems and component libraries. Proven track record of building and mentoring development teams while delivering modern React/Next.js applications.
 
 ### TECHNOLOGY STACKS
 
@@ -75,7 +75,7 @@ Led development team supporting small business user community forum. Oversaw mig
 Designed original WordPress themes and plugins for local businesses. Introduced team to CSS preprocessors and established stylesheet best practices.
 
 ### EDUCATION
-**Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications** - University of Texas McCombs School of Business - in progress  
+**Post Graduate Program in Artificial Intelligence and Machine Learning: Business Applications** - University of Texas McCombs School of Business   
 **BA JOURNALISM** - University of North Texas  
 **CONTINUING EDUCATION** - @FreeCodeCamp
 
